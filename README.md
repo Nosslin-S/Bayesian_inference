@@ -1,1 +1,1 @@
-# Bayesian_inference
+# Bayesian inference with MCMC
